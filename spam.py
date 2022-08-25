@@ -22,6 +22,6 @@ async def on_message(message):
         await channel.send("Sup!")
         
 
-client.run("*******************", bot=False)
+client.run("MTAxMjQzOTIyNTkyMjIyNDE2OA.GXmW9B.95yB7qdvT2ovAAmN78kVt_K0tL7VHCDr21qUow", bot=False)
 
 #-------------- Please replace the ***** With user token of spam user --------------
